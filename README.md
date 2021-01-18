@@ -37,7 +37,7 @@ And run project
 * View feed with summary of headlines  
 * Show the news page website
 
-_Under Contruction 
+_Under Construction 
 
 ```
 Tab Bar With Evethings news

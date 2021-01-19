@@ -1,6 +1,6 @@
 <h1 align="center"> News.org App </h1> <br>
 
-This is a News application powered by me that provides the list of headline about BR, US and MX.
+This is a News application powered by me that provides the list of headline about BR, US and AR.
 
 ## Getting Started
 
@@ -56,7 +56,7 @@ iPADOS 13*
 
 ## Built With
 
-* [Swift](https://swift.org) - The programming language most recent of Apple
+* [Swift](https://swift.org) - 
 *  MVVM - Architecture used
 *  View-Code layout
 

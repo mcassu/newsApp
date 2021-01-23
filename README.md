@@ -64,6 +64,3 @@ iPADOS 13*
 
 * **Cassu**
 
-## Acknowledgments
-
-* Initial project MVVM.
